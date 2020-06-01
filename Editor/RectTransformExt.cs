@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UniParentRectTransformFitter
+namespace Kogane.Internal
 {
 	/// <summary>
 	/// RectTransform 型の拡張メソッドを管理するクラス

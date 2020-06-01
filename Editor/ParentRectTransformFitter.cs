@@ -3,7 +3,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace UniParentRectTransformFitter
+namespace Kogane.Internal
 {
 	/// <summary>
 	/// 親オブジェクトが子オブジェクトをすべて内包するように親オブジェクトの位置とサイズを調整するエディタ拡張
