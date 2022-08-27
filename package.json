@@ -1,8 +1,8 @@
 {
-    "name": "com.baba-s.uni-parent-rect-transform-fitter",
-    "displayName": "UniParentRectTransformFitter",
+    "name": "com.baba-s.kogane-parent-rect-transform-fitter",
+    "displayName": "Kogane Parent Rect Transform Fitter",
     "version": "1.0.0",
-    "unity": "2019.2",
+    "unity": "2022.1",
     "author": "baba-s",
     "description": "",
     "dependencies": {}

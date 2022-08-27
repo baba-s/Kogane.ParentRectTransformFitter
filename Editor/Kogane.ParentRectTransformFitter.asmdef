@@ -1,5 +1,5 @@
 {
-    "name": "UniParentRectTransformFitter",
+    "name": "Kogane.ParentRectTransformFitter",
     "references": [],
     "includePlatforms": [
         "Editor"
