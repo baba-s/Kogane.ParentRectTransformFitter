@@ -69,12 +69,12 @@ namespace Kogane.Internal
             var width       = xMax - xMin;
             var height      = yMax - yMin;
 
-            parent.anchoredPosition = new Vector2
+            parent.anchoredPosition = new
             (
                 xMin + width * parentPivot.x,
                 yMin + height * parentPivot.y
             );
-            parent.sizeDelta = new Vector2( width, height );
+            parent.sizeDelta = new( width, height );
 
             // 子オブジェクトの親を元に戻します
             foreach ( var child in children )
